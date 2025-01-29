@@ -1,14 +1,14 @@
 //1.------------
-void main() {
-  sum(5);
-}
+// void main() {
+//   sum(5);
+// }
 
-void sum(int a) {
-  for (int i = 1; i <= a; i++) {
-    int sum = i * i;
-    print(sum);
-  }
-}
+// void sum(int a) {
+//   for (int i = 1; i <= a; i++) {
+//     int sum = i * i;
+//     print(sum);
+//   }
+// }
 
 //2.----------------
 
